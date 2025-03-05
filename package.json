@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "github:wppconnect-team/wppconnect",
+    "moment": "^2.30.1",
+    "mysql2": "^3.11.0",
+    "node-cron": "^3.0.3"
+  }
+}
